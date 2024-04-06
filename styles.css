@@ -59,26 +59,17 @@ body {
     font-size: 18px;
   }
   
-  hr {
-    height: 2px;
-    background-color: brown;
-    border-color: brown;
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
   }
   
-  .bottom-line {
-    margin-top: 25px;
+  .price {
+    text-align: right;
+    width: 25%;
   }
   
-  h1, h2 {
-    font-family: Impact, serif;
-  }
   
-  .item p {
-    display: inline-block;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    font-size: 18px;
-  }
   
   footer {
     font-size: 14px;
